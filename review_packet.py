@@ -1,10 +1,3 @@
-"""Rehearse the support-packet workflow using the student's regex helpers.
-
-Tickets and payment data are fictional; college contacts are public.
-This demonstrates the specified patterns;
-it is not a tool for removing every possible kind of personal information.
-"""
-
 import argparse
 import json
 from pathlib import Path
