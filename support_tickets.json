@@ -1,0 +1,51 @@
+[
+  {
+    "ticket": "demo-001",
+    "message": "Campus visit question 1. Claremont McKenna: 909-621-8088, admission@cmc.edu. @cmc #visit #campus #visit Details https://online.cmc.edu/sites/default/files/CMC-Application-Checklist-FirstYears_FINAL_2026.pdf Sample SSN 000-12-3456. Pomona: 909-621-8134; @pomona.",
+    "contact": "admission@cmc.edu",
+    "card": "1234567812345678",
+    "contact_source": "https://online.cmc.edu/sites/default/files/CMC-Application-Checklist-FirstYears_FINAL_2026.pdf"
+  },
+  {
+    "ticket": "demo-002",
+    "message": "Campus visit question 2. Pomona: 909-621-8134, admissions@pomona.edu. @pomona #visit #campus #visit Details https://www.pomona.edu/new-students/contact-information Sample SSN 000-12-3456.",
+    "contact": "admissions@pomona.edu and some extra text",
+    "card": "0000111122223333",
+    "contact_source": "https://www.pomona.edu/new-students/contact-information"
+  },
+  {
+    "ticket": "demo-003",
+    "message": "Campus visit question 3. Harvey Mudd: 909-621-8011, admission@hmc.edu. @hmc #visit #campus #visit Details https://www.hmc.edu/admission/connect/contact-admission-and-financial-aid/ Sample SSN 000-12-3456.",
+    "contact": "admission@hmc.edu",
+    "card": "0000111122223333",
+    "contact_source": "https://www.hmc.edu/admission/connect/contact-admission-and-financial-aid/"
+  },
+  {
+    "ticket": "demo-004",
+    "message": "Campus visit question 4. Scripps: 909-621-8149, admission@scrippscollege.edu. @scripps #visit #campus #visit Details https://www.scrippscollege.edu/assessir/scripps-college-data-2/attachment/2024-25-cds_final Sample SSN 000-12-3456.",
+    "contact": "admission@scrippscollege.edu",
+    "card": "0000111122223333",
+    "contact_source": "https://www.scrippscollege.edu/assessir/scripps-college-data-2/attachment/2024-25-cds_final"
+  },
+  {
+    "ticket": "demo-005",
+    "message": "Campus visit question 5. Pitzer: 909-621-8129, admission@pitzer.edu. @pitzer #visit #campus #visit Details https://www.pitzer.edu/offices/admission Sample SSN 000-12-3456.",
+    "contact": "admission@pitzer.edu",
+    "card": "0000111122223333",
+    "contact_source": "https://www.pitzer.edu/offices/admission"
+  },
+  {
+    "ticket": "demo-006",
+    "message": "Campus visit question 6. Claremont Graduate University: 909-607-7811, admissions@cgu.edu. @cgu #visit #campus #visit Details https://www.cgu.edu/contact-us/ Sample SSN 000-12-3456.",
+    "contact": "admissions@cgu.edu",
+    "card": "0000111122223333",
+    "contact_source": "https://www.cgu.edu/contact-us/"
+  },
+  {
+    "ticket": "demo-007",
+    "message": "Campus visit question 7. Keck Graduate Institute: 909-819-4544, admissions@kgi.edu. @kgi #visit #campus #visit Details https://www.kgi.edu/admissions/index.html Sample SSN 000-12-3456.",
+    "contact": "admissions@kgi.edu",
+    "card": "0000111122223333",
+    "contact_source": "https://www.kgi.edu/admissions/index.html"
+  }
+]
